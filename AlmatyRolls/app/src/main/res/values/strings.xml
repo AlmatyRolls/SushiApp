@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlmatyRolls</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test_horz_slider">TestHorzSlider</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_horizontal_slider">HorizontalSlider</string>
+</resources>
